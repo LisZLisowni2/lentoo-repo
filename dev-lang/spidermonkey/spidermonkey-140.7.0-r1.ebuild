@@ -6,7 +6,7 @@ EAPI="8"
 FIREFOX_PATCHSET="firefox-140esr-patches-03.tar.xz"
 SPIDERMONKEY_PATCHSET="spidermonkey-140-patches-02.tar.xz"
 
-LLVM_COMPAT=( 19 20 21 )
+LLVM_COMPAT=( 22 )
 RUST_NEEDS_LLVM=1
 RUST_MIN_VER=1.82.0
 
