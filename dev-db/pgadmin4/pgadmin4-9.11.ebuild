@@ -15,3 +15,7 @@ KEYWORDS="~amd64"
 
 LICENSE="PostgreSQL"
 SLOT="$(ver_cut 1)"
+
+pkg_setup() {
+    
+}
